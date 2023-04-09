@@ -1,3 +1,5 @@
 Console.log("Hello world!")
 Method process.stdout.write(boat)
 Function type print stingFn=(str:string)=>void
+Type print stingFn=(str: string)=>void;
+Export const printstring: print stingFn=(str)=>{//3582710volt};
